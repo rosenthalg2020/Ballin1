@@ -1,0 +1,183 @@
+
+{
+    "bowling-balls": [
+        {
+        "manufacturer": "Strom",
+        "model": "Tropical Surge",
+        "color": "Green, Silver",
+        "image": "images/tropicalsurge.jfif",
+        "coverstock": "Storm Reactor Pearl Reactive",
+        "core":"Storm Surge Core",
+        "weight": "11 LBS",
+        "conditions":"Dry – Medium Oil"
+
+        },
+
+        {
+        "manufacturer": "Brunswick",
+        "model": "Rhino",
+        "color": "Blue",
+        "image": "images/bluerhino.jfif",
+        "coverstock": "Brunswick R-16 Pearl Reactive",
+        "core":"Brunswick Light Bulb Core",
+        "weight": "11 LBS",
+        "conditions":"Dry – Medium Oil"
+
+        },
+
+        {
+        "manufacturer": "Storm",
+        "model": "Night Road",
+        "color": "Black, Silver",
+        "image": "images/nightroad2.jfif",
+        "coverstock": "Storm ReX Pearl Reactive",
+        "core":"Storm Inverted Fe2 Core",
+        "weight": "11 LBS",
+        "conditions":"Medium – Heavy Oil"
+
+        },
+
+        {
+        "manufacturer": "Ebonite",
+        "model": "Maxim",
+        "color": "Orange/Black",
+        "image": "images/ebonitemaxim.jfif",
+        "coverstock": "Hard Polyester/Plastic",
+        "core":"Bullet",
+        "weight": "11 LBS",
+        "conditions":"Dry"
+
+        },  
+
+        {
+        "manufacturer": "Motiv",
+        "model": "Top Thrill",
+        "color": "Blue, Green",
+        "image": "images/thrill.jfif",
+        "coverstock": "Motiv Turmoil XP Pearl Reactive",
+        "core":"Motiv Modified Halogen Core",
+        "weight": "11 LBS",
+        "conditions":"Dry – Medium Oil"
+        },
+
+        {
+        "manufacturer": "Hammer",
+        "model": "Scorpion",
+        "color": "Gold, Orange, Red",
+        "image": "images/scorpion.jfif",
+        "coverstock": "Hammer Semtex Hybrid Reactive",
+        "core":"Hammer LED 2.0 Core",
+        "weight": "12 LBS",
+        "conditions":"Medium – Heavy Oil"
+        },
+
+        {
+        "manufacturer": "Brunswick",
+        "model": "TZone",
+        "color": "Indigo Swirl",
+        "image": "images/tzone.jfif",
+        "coverstock": "Polyester",
+        "core":"Symmetrical Core",
+        "weight": "12 LBS",
+        "conditions":"Dry"
+
+        },
+
+        {
+        "manufacturer": "Hammer",
+        "model": "Raw Hybrid",
+        "color": "Orange/Black",
+        "image": "images/hammerorange.jfif",
+        "coverstock": "Hybrid Reactive",
+        "core":"Hammer Raw Hammer Core",
+        "weight": "12 LBS",
+        "conditions":"Dry – Medium Oil"
+
+        },
+
+        {
+        "manufacturer": "Motiv",
+        "model": "Blue Coral Venom",
+        "color": "Blue, Purple",
+        "image": "images/bluevenom.jpg",
+        "coverstock": "Hybrid Reactive",
+        "core":"Motiv Gear APG",
+        "weight": "12 LBS",
+        "conditions":"Dry – Medium Oil"
+
+        },
+
+        {
+        "manufacturer": "Ebonite",
+        "model": "Game Breaker 4",
+        "color": "Red, Silver",
+        "image": "images/gb4.jfif",
+        "coverstock": "Reactive Pearl",
+        "core":"Ebonite Enhanced V2 Core",
+        "weight": "12 LBS",
+        "conditions":"Medium – Heavy Oil"
+
+        },  
+
+        {
+        "manufacturer": "Hammer",
+        "model": "Raw",
+        "color": "Solid Black",
+        "image": "images/rawhammer.jfif",
+        "coverstock": "Hammer Juiced Solid Reactive",
+        "core":"Hammer Raw Hammer Core",
+        "weight": "12 LBS",
+        "conditions":"Dry – Medium Oil"
+        },
+
+        {
+        "manufacturer": "Hammer",
+        "model": "Black Widow",
+        "color": "White",
+        "image": "images/whitewidow.jfif",
+        "coverstock": "Reactive Pearl",
+        "core":"Hammer Gas Mask Core",
+        "weight": "12 LBS",
+        "conditions":"Medium – Heavy Oil"
+        }
+    ],
+
+
+    "house": [
+        { 
+        "name": "Potters Alley", 
+        "image": "images/potters.jfif",
+        "conditions": "Dry – Medium Oil"
+        },
+
+        {
+        "name": "Plaza Lanes", 
+        "image": "images/plaza.jfif",
+        "conditions": "Medium – Heavy Oil"
+        },
+
+        {
+        "name": "Landmark Lanes", 
+        "image": "images/landmark.jfif",
+        "conditions": "Medium Oil"
+        },
+
+        {
+        "name": "Mt.Hawley Bowl",
+        "image": "images/hawley.png",
+        "conditions": "Dry – Medium Oil"
+        },
+
+        {
+        "name": "Sunset Lanes",
+        "image": "images/sunset.jfif",
+        "conditions": "Dry - Medium Oil"
+        },
+
+        {
+        "name": "Linn Lanes",
+        "image": "images/linn.png",
+        "conditions": "Medium – Heavy Oil"
+        }
+    ]
+}
